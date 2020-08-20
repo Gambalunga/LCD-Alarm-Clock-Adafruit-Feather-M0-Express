@@ -23,6 +23,7 @@
   Note that at this time the DAC or the Feather M4 Express is not functional due to the lack of
   a suitable Audio library.
   The Audio_FeatherM0 library is a modified version of the SamdAudio library.
+  https://github.com/Gambalunga/Audio_FeatherM0
   Uses the Daylight Savings Time library by Andy Doro which was further modified for EU DST
   ----> https://github.com/andydoro/DST_RTC
   An Adafruit Mono 2.5W Class D Audio Amplifier - PAM8302 was added to provide sound for an alarm.
