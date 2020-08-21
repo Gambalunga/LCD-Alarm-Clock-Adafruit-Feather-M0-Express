@@ -14,6 +14,7 @@ It should be noted that the PAM8302 Audio Amplifier overpowers the 4 Ohm speaker
 Items used were:
 * an [Adafruit Feather M0 Express](https://www.adafruit.com/product/3403) (I recommend stacking headers for the eventual attachment of wires)
 * [DS3231 Precision RTC FeatherWing](https://www.adafruit.com/product/3028) (with stacking headers)
+* [CR1220 12mm Diameter - 3V Lithium Coin Cell Battery](https://www.adafruit.com/product/380) (for the RTC)
 * [4-Digit 7-Segment Display FeatherWing](https://www.adafruit.com/product/3106)
 * [Mono 2.5W Class D Audio Amplifier - PAM8302](https://www.adafruit.com/product/2130)
 * [Mono Enclosed Speaker - 3W 4 Ohm](https://www.adafruit.com/product/4445)
