@@ -1,5 +1,5 @@
 ## LCD-Alarm-Clock-Adafruit-Feather-M0-Express
-An LCD Alarm Clock using the Adafruit Feather M0 Express. Automatic correction for Daylight Saving Time and plays a short WAV file for the alarm.
+An LCD Alarm Clock using the Adafruit Feather M0 Express with automatic correction for Daylight Saving Time and plays a short WAV file for the alarm.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gambalunga/LCD-Alarm-Clock-Adafruit-Feather-M0-Express/master/Images/TickTock.jpg">
