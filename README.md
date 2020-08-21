@@ -1,7 +1,10 @@
-# LCD-Alarm-Clock-Adafruit-Feather-M0-Express
+## LCD-Alarm-Clock-Adafruit-Feather-M0-Express
 An LCD Alarm Clock using the Adafruit Feather M0 Express. Automatic correction for Daylight Saving Time and plays a short WAV file for the alarm.
 
-*The fascia and box covering is yet to be added.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gambalunga/LCD-Alarm-Clock-Adafruit-Feather-M0-Express/master/Images/TickTock.jpg">
+</p>
+<p align="center"><em>The fascia and box covering is yet to be added</em></p>
 
 The automatic correction for daylight savings time uses Western European rules but US rules are also available.
 The SPI Flash storage for a 2 minute section of music that was extracted from an MP3 and saved as an 8bit 16000Hz WAV file (Alarm.wav) using Audacity. This file is played via the DAC of the ATSAMD21 processor. 
