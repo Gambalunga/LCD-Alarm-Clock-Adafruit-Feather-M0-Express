@@ -20,6 +20,7 @@ Items used were:
 * 2 small pushbuttons (7 mm threaded with nuts for mounting in the case)
 * 1 larger latching pushbutton (12mm - I found one with a blue 5V blue LED which works fine with 3V)
 * a 1000 mAh Lithium battery to keep the clock running for a period in case of a power outage (if it loses power the alarm time would reset to the default time). See note below.
+* A short Micro USB extension with a 90° downwards connection to lead out the back of the box and provide power.
 * Various jumper wires mainly female female which were cut in half to solder to the pushbuttons.
 
 ![image](https://raw.githubusercontent.com/Gambalunga/LCD-Alarm-Clock-Adafruit-Feather-M0-Express/master/Images/TickTock%20LCD.jpg)
