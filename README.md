@@ -7,7 +7,7 @@ An LCD Alarm Clock using the Adafruit Feather M0 Express. Automatic correction f
 <p align="center"><em>The fascia and box covering is yet to be added</em></p>
 
 The automatic correction for daylight savings time uses Western European rules but US rules are also available.
-The SPI Flash storage for a 2 minute section of music that was extracted from an MP3 and saved as an 8bit 16000Hz WAV file (Alarm.wav) using Audacity. This file is played via the DAC of the ATSAMD21 processor. 
+The SPI Flash storage was used for a 2 minute section of music that was extracted from an MP3 and saved as an 8bit 16000Hz WAV file (Alarm.wav) using Audacity. This file is played via the DAC of the ATSAMD21 processor. 
 
 It should be noted that the PAM8302 Audio Amplifier overpowers the 4 Ohm speakers at full volume and the volume trim pot needs to be adjusted down until you get clear sound.
 
